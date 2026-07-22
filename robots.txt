@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://juangabrielaraujo7-bit.github.io/charlieboutiquepetshop/sitemap.xml
