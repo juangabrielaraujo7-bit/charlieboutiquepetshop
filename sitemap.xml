@@ -5,4 +5,19 @@
     <changefreq>monthly</changefreq>
     <priority>1.0</priority>
   </url>
+  <url>
+    <loc>https://juangabrielaraujo7-bit.github.io/charlieboutiquepetshop/catalogo-racoes.html</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://juangabrielaraujo7-bit.github.io/charlieboutiquepetshop/catalogo-acessorios.html</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://juangabrielaraujo7-bit.github.io/charlieboutiquepetshop/catalogo-roupas.html</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
 </urlset>
